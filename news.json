@@ -1,4 +1,4 @@
 [
-  {"description":"This brand new version severely speeds up many parts of ScratchTools- we recommend updating if you haven't already!","title":"v2.19.1 is Now Out!","color":"yellow"},
-  {"title":"Discord Server","description":"Interested in meeting the developers and giving suggestions for ScratchTools? It's really easy! Simply <a href='https://scratchtools.app/discord/'>join our server</a> and get started!","color":"blue"}
+  {"description":"ScratchTools is becoming available in even more languages! Our beta version supports Polish and Russian, and more languages such as Spanish, Turkish, German and Japanese are coming soon! If you know a language other than English, you can help translate and get credit for it <a href='https://explore.transifex.com/scratchtools/scratchtools/'>here</a>!", "title":"ScratchTools is Going Multilingual!", "color":"blue"},
+  {"description":"This new version adds multiple really cool features, including the ability to generate links for your own unshared projects!","title":"v2.23.0 is Now Out!","color":"yellow"}
 ]
